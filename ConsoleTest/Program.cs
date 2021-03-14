@@ -21,7 +21,7 @@ namespace ConsoleTest
         private static Device myDevice;
         private static int index;
         private static bool isRun = true;
-        private static bool  isInt;
+        private static bool isInt;
 
         static void Main(string[] args)
         {
